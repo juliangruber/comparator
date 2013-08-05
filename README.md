@@ -3,6 +3,10 @@
 
 Generate comparator functions with deep object access support.
 
+[![build status](https://secure.travis-ci.org/juliangruber/comparator.png)](http://travis-ci.org/juliangruber/comparator)
+
+[![testling badge](https://ci.testling.com/juliangruber/comparator.png)](https://ci.testling.com/juliangruber/comparator)
+
 ## Example
 
 ```js
