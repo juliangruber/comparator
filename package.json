@@ -1,0 +1,30 @@
+{
+  "name": "comparator",
+  "description": "Generate comparator functions with deep object access support",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/comparator.git"
+  },
+  "homepage": "https://github.com/juliangruber/comparator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "dependencies": {
+    "deep-access": "0.0.1"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "keywords": [
+    "compare",
+    "comparator"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
