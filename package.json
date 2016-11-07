@@ -12,10 +12,10 @@
     "test": "tape test.js"
   },
   "dependencies": {
-    "deep-access": "0.0.1"
+    "deep-access": "0.1.1"
   },
   "devDependencies": {
-    "tape": "~1.0.4"
+    "tape": "~4.6.2"
   },
   "keywords": [
     "compare",
